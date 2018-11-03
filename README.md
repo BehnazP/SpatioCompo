@@ -1,6 +1,6 @@
 # Land-cover maps based on pollen observations for Europe
 
-The excel files in Land-cover Maps
+The `.csv` files in Land-cover Maps folder
 1. land-cover-maps_1900CE,
 2. land-cover-maps_11725CE,
 3. land-cover-maps_4000BCE,
