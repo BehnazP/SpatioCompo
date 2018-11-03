@@ -1,5 +1,5 @@
 # Land-cover maps based on pollen observations for Europe
-### The usage of the land-cover maps is free for usage, however attribution to the publication is required.
+### The usage of the land-cover maps is free, however attribution to the publication is required.
 
 The `.csv` files in Land-cover Maps folder
 1. land-cover-maps_1900CE,
