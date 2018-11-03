@@ -41,7 +41,7 @@ Demo.m sets the structures, dependency and the names. It calls Main.m function t
 
 ### Reference:
 * Pirzamanbein, Behnaz, Johan Lindström, Anneli Poska, and Marie-José Gaillard. "Modelling Spatial Compositional Data: Reconstructions of past land cover and uncertainties." Spatial statistics 24 (2018): 14-31.
-* Pirzamanbein, Behnaz, Anneli Poska, and Johan Lindström. "Analysing the sensitivity of pollen based land-cover maps to different auxiliary variables." arXiv preprint arXiv:1703.06719 (2017).
+* Pirzamanbein, Behnaz, Anneli Poska, and Johan Lindström. "Bayesian reconstruction of past land-cover from pollen data: model robustness and sensitivity to auxiliary variables." arXiv preprint arXiv:1703.06719 (2017).
 
 MATLAB code for modelling spatial compositional data, specifically for reconstructions of past land cover and uncertainties.
 Copyright (C) 2018  Pirzamanbein Pirzamanbein
