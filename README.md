@@ -43,6 +43,8 @@ Demo.m sets the structures, dependency and the names. It calls Main.m function t
 * Pirzamanbein, Behnaz, Johan Lindström, Anneli Poska, and Marie-José Gaillard. "Modelling Spatial Compositional Data: Reconstructions of past land cover and uncertainties." Spatial statistics 24 (2018): 14-31.
 * Pirzamanbein, Behnaz, Anneli Poska, and Johan Lindström. "Bayesian reconstruction of past land-cover from pollen data: model robustness and sensitivity to auxiliary variables." arXiv preprint arXiv:1703.06719 (2017).
 
+### Licenses
+#### Code
 MATLAB code for modelling spatial compositional data, specifically for reconstructions of past land cover and uncertainties.
 Copyright (C) 2018  Pirzamanbein Pirzamanbein
 
@@ -58,5 +60,5 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
+#### Data
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Land-cover maps based on pollen observations for Europe</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Behnaz Pirzamanbein</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/BehnazP/SpatioCompo" rel="dct:source">https://github.com/BehnazP/SpatioCompo</a>.
