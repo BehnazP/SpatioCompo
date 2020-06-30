@@ -3,7 +3,7 @@
 
 The `.csv` files in Land-cover Maps folder
 1. land-cover-maps_1900CE,
-2. land-cover-maps_11725CE,
+2. land-cover-maps_1725CE,
 3. land-cover-maps_4000BCE,
 
 consist of six models described in details in (https://arxiv.org/abs/1703.06719)
