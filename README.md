@@ -6,7 +6,9 @@ The `.csv` files in Land-cover Maps folder
 2. land-cover-maps_1725CE,
 3. land-cover-maps_4000BCE,
 
-consist of six models described in details in (https://arxiv.org/abs/1703.06719)
+consist of six models described in details in 
+* https://arxiv.org/abs/1703.06719
+* https://doi.org/10.1029/2018EA000547
 
 a) constant  
 b) elevation  
@@ -40,8 +42,8 @@ These results obtained by running the Demo.m function in the src folder in MATLA
 Demo.m sets the structures, dependency and the names. It calls Main.m function to run the MCMC sampling. The results of the Main.m functions are based on the papers mentioned above. However, some of the functions can be used in general cases, dealing with Gaussian Markov Random fields, Compositional Data and Dirichlet distribution.
 
 ### Reference:
-* Pirzamanbein, Behnaz, Johan Lindström, Anneli Poska, and Marie-José Gaillard. "Modelling Spatial Compositional Data: Reconstructions of past land cover and uncertainties." Spatial statistics 24 (2018): 14-31.
-* Pirzamanbein, Behnaz, Anneli Poska, and Johan Lindström. "Bayesian reconstruction of past land-cover from pollen data: model robustness and sensitivity to auxiliary variables." arXiv preprint arXiv:1703.06719 (2017).
+* Pirzamanbein, Behnaz, Johan Lindström, Anneli Poska, and Marie-José Gaillard. "Modelling Spatial Compositional Data: Reconstructions of past land cover and uncertainties." Spatial statistics 24 (2018): 14-31. (https://doi.org/10.1016/j.spasta.2018.03.005)
+* Pirzamanbein, Behnaz, Anneli Poska, and Johan Lindström. "Bayesian Reconstruction of Past Land Cover From Pollen Data: Model Robustness and Sensitivity to Auxiliary Variables." Earth and Space Science 7, no. 1 (2020): e2018EA00057. (https://doi.org/10.1029/2018EA000547)
 
 ### Licenses
 #### Code
