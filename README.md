@@ -11,9 +11,9 @@ consist of six models described in details in (https://arxiv.org/abs/1703.06719)
 a) constant  
 b) elevation  
 c) K-L_ESM  
-d) K-L-RCA3  
+d) K-L_RCA3  
 e) H-L_ESM  
-f) H-L-RCA3
+f) H-L_RCA3
 
 `K`: Kapplan human-land use (KK10),
 `L`: LPJ-GUESS dynamic vegetation model forced by climate data from:
