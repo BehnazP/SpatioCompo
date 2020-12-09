@@ -19,7 +19,5 @@ transform = zeros(n,D);
 for k = 1:d
     transform(:,k)=exp(compo(:,k))./(1 + sum(exp(compo),2));
 end
-    transform(:,D)=1./(1 + sum(exp(compo),2));
-
-end
+transform(:,D)=1./(1 + sum(exp(compo),2));
 end

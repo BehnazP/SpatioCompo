@@ -75,7 +75,7 @@ for i = 2:iter
     MCMC.beta(:,i) = new(1:d*p);%
     if iter>1e5
         if (mod(i,50)==0)
-             MCMC.x(:,(i/50))= new;
+             MCMC.x(:,(i/50))= new(d*p+1:(N+p)*d);
         end
     else
         MCMC.x(:,i)= new(d*p+1:(N+p)*d);
